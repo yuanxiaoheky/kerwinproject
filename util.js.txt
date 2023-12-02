@@ -7,3 +7,5 @@ master本地写的，准备上传到远程
 
 我是kerverwinlist ，我也要修改util
 我是tiechui，我要修改util
+
+12-2-15:11 hot-fix修改util.js文件
