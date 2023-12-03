@@ -3,7 +3,7 @@
 master 修改了一个bug
 login ky第一次添加
 
-master本地写的，准备上传到远程
+master本地写的，准备（为了12-3-10：56的测试里添加一些干扰数据，这行干扰数据增加在10：59）上传到远程
 
 我是kerverwinlist ，我也要修改util
 我是tiechui，我要修改util
@@ -11,3 +11,5 @@ master本地写的，准备上传到远程
 12-2-15：10master分支修改
 12-2-15:11 hot-fix修改util.js文件
 12-3-10：37 我在github线上修改这段代码
+
+12-3-10：56 此时我已经在hotfix上做了一些bug的修改，这行代码是为了模拟，我在修改bug的时候，又有其他人改变了master分支的内容，所以我在上传我的hotfix分支上必须得再次pull 一下master分支
