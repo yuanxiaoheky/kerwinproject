@@ -1,2 +1,8 @@
 master
 12-3-10：46-github修改pay分支文件
+12-3-10：52 我创建了一个全新的文件夹，clone了github的远程仓库，它默认
+是clone了master分支，我从master分支中branch了一个hotfix分支，这个hotfix
+分支的内容全部是master分支上的，然后我在hotfix分支上git pull origin pay，结果
+因为pay分支上仅仅是添加了master分支的master.txt的一些内容，所以在hotfix分支上
+呈现的结果就是增加了master.txt的一行内容。并不是我预想的将pay分支的内容全盘
+照搬到hotfix上------------这段注释就是我修改bug的意见
